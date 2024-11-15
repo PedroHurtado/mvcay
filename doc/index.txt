@@ -1,0 +1,4 @@
+1. Crear la página edit
+2. Crear un formulario en ella
+3. Enviar el formulario al servidor
+4. PRG(Post Redirect Get)
