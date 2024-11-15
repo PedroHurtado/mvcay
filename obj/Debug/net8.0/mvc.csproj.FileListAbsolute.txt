@@ -28,3 +28,4 @@ C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\mvc\obj\Debug\net8.0
 C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\mvc\obj\Debug\net8.0\mvc.pdb
 C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\mvc\obj\Debug\net8.0\mvc.genruntimeconfig.cache
 C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\mvc\obj\Debug\net8.0\ref\mvc.dll
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\mvc\obj\Debug\net8.0\mvc.sourcelink.json

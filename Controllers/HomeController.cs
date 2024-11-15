@@ -1,7 +1,7 @@
 using System.Diagnostics;
-using System.Linq.Expressions;
 using Microsoft.AspNetCore.Mvc;
 using mvc.Models;
+
 
 namespace mvc.Controllers;
 
@@ -26,6 +26,19 @@ public class HomeController : Controller
 
     public IActionResult About(){
         return View();
+    }
+
+    public IActionResult Foo(){
+        Foo foo = new() { Id=1,Name="Pedro"};
+        return View(foo);
+    }
+
+    public IActionResult List(){
+        List<Foo> list =[
+            new Foo { Id=1, Name="Pedro"},
+            new Foo { Id=2, Name="Daniel"},
+        ];
+        return View(list);
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
