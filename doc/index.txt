@@ -2,3 +2,7 @@
 2. Crear un formulario en ella
 3. Enviar el formulario al servidor
 4. PRG(Post Redirect Get)
+https://en.wikipedia.org/wiki/Post/Redirect/Get#:~:text=Post%2FRedirect%2FGet%20(PRG,problem%20encountered%20in%20user%20agents.
+
+https://learn.microsoft.com/en-us/aspnet/core/mvc/models/validation?view=aspnetcore-9.0
+https://www.red-gate.com/simple-talk/development/web/how-to-secure-legacy-asp-net-mvc-against-csrf-attacks/
